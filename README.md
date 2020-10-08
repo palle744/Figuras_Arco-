@@ -1,2 +1,2 @@
 # Figuras_Arco-
-Generacion de foguras y arco en java 
+Generacion de figuras y arco en java 
